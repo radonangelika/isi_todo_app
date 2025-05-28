@@ -31,3 +31,6 @@ Po dodaniu zadań:
 ![Zrzut ekranu](todo2.png)
 
 ---
+## Uruchom aplikację
+
+[![Zobacz na Renderze](https://img.shields.io/badge/Zobacz%20aplikacj%C4%99-na%20Render-green)](https://todo-app-i4f5.onrender.com/)
