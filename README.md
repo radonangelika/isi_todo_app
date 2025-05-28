@@ -20,3 +20,14 @@ Zbudowana w oparciu o Node.js, Express i MongoDB Atlas.
 - HTML, CSS, JavaScript (frontend)
 
 ---
+## 🖼️ Zrzut ekranu aplikacji
+
+Przed dodaniem zadań:
+
+![Zrzut ekranu](todo1.png)
+
+Po dodaniu zadań:
+
+![Zrzut ekranu](todo2.png)
+
+---
