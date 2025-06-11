@@ -18,7 +18,22 @@ Zbudowana w oparciu o Node.js, Express i MongoDB Atlas.
 - Node.js + Express (backend)
 - MongoDB Atlas + Mongoose (baza danych)
 - HTML, CSS, JavaScript (frontend)
+---
 
+## Struktura
+```
+  my-app/
+  ├── public/
+  │   ├── index.html
+  │   ├── style.css
+  │   └── script.js
+  ├── models/
+  │   └── User.js
+  ├── routes/
+  │   └── users.js
+  ├── app.js
+  ├── package.json
+```
 ---
 ## 🖼️ Zrzut ekranu aplikacji
 
